@@ -1,0 +1,13 @@
+streamlit
+streamlit-option-menu
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+numpy
+joblib
+plotly
+pandas
+scikit-learn
+xgboost
+huggingface_hub
