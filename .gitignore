@@ -1,5 +1,5 @@
-client_secret.json/
-client_secret.json
+credentials.json
+credentials.json/
 .streamlit/
 # Byte-compiled / optimized / DLL files
 __pycache__/
